@@ -1,9 +1,8 @@
 # Vertica papers
 
-- Vertica original design, [C-store paper]
-- Vertica redesigned paper [Vertica paper]
-- Vertica in EON mode [EON-Mode paper]
-
+- Vertica original design [C-store paper]
+- Vertica redesign paper [Vertica paper]
+- Vertica in EON mode (cloud support) [EON-Mode paper]
 
 [C-store paper]: <https://github.com/hmofrad/vertica/blob/main/C-Store-vldb05.pdf>
 [Vertica paper]: <https://github.com/hmofrad/vertica/blob/main/Vertica-vldb2012.pdf>
